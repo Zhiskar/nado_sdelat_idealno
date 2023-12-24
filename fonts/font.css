@@ -2,7 +2,7 @@
   font-family: Raleway;
   src: url(./Raleway-Regular.woff2) format("woff2"),
     url(./Raleway-Regular.woff) format("woff");
-  font-weight: normal;
+  font-weight: 400;
   font-display: swap;
 }
 
@@ -10,6 +10,6 @@
   font-family: Raleway;
   src: url(./Raleway-ExtraBold.woff2) format("woff2"),
     url(./Raleway-ExtraBold.woff) format("woff");
-  font-weight: extra bold;
+  font-weight: 800;
   font-display: swap;
 }
