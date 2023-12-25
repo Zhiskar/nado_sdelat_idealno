@@ -17,8 +17,7 @@
   min-width: 800px;
   margin: 0;
   position: relative;
-  justify-content: center;
-  /*z-index: 0;*/  
+  justify-content: center;  
 }
 
 .body::before {
@@ -52,7 +51,7 @@
   line-height: normal;
   letter-spacing: 4.06px;
   text-transform: uppercase;
-  padding-top: 60px;    
+  padding-top: 60px;
   max-width: 730px;
 }
 /*добавлены системные шрифты*/
